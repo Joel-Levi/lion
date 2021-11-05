@@ -1,5 +1,13 @@
 # @lion/progress-indicator
 
+## 0.6.6
+
+### Patch Changes
+
+- Updated dependencies [c55d4566]
+  - @lion/core@0.18.5
+  - @lion/localize@0.21.3
+
 ## 0.6.5
 
 ### Patch Changes

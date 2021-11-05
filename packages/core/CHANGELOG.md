@@ -1,5 +1,11 @@
 # Change Log
 
+## 0.18.5
+
+### Patch Changes
+
+- c55d4566: Re-export html from lit/static-html.js as staticHtml.
+
 ## 0.18.4
 
 ### Patch Changes

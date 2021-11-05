@@ -1,5 +1,14 @@
 # Change Log
 
+## 0.13.7
+
+### Patch Changes
+
+- 5f3ef98a: Temporary fix for a bug in FireFox where disabled textareas can crash the browser if dragged (resized).
+- Updated dependencies [c55d4566]
+  - @lion/core@0.18.5
+  - @lion/form-core@0.15.4
+
 ## 0.13.6
 
 ### Patch Changes
